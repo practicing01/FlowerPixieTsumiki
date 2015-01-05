@@ -1,0 +1,12 @@
+[Mon Jan  5 11:57:56 2015] INFO: Opened log file Urho3D.log
+[Mon Jan  5 11:57:56 2015] INFO: Created 1 worker thread
+[Mon Jan  5 11:57:56 2015] INFO: Added resource path /home/practicing01/Desktop/Programming/FlowerPixieTsumiki/Bin/Data/
+[Mon Jan  5 11:57:56 2015] INFO: Added resource path /home/practicing01/Desktop/Programming/FlowerPixieTsumiki/Bin/CoreData/
+[Mon Jan  5 11:57:56 2015] WARNING: Skipped autoload folder Extra as it does not exist
+[Mon Jan  5 11:57:57 2015] INFO: Set screen mode 800x480 windowed
+[Mon Jan  5 11:57:57 2015] INFO: Initialized input
+[Mon Jan  5 11:57:57 2015] INFO: Initialized user interface
+[Mon Jan  5 11:57:57 2015] INFO: Initialized renderer
+[Mon Jan  5 11:57:57 2015] INFO: Set audio mode 44100 Hz stereo interpolated
+[Mon Jan  5 11:57:57 2015] INFO: Initialized engine
+[Mon Jan  5 11:58:03 2015] INFO: Loading scene from /home/practicing01/Desktop/Programming/FlowerPixieTsumiki/Bin/Data/Scenes/flowerScene.xml
